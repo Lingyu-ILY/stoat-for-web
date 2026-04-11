@@ -382,6 +382,10 @@ msgstr "指派角色"
 msgid "Authenticator App"
 msgstr "驗證器 App"
 
+#: components/app/interface/settings/user/voice/VoiceProcessingOptions.tsx
+msgid "Automatic Gain Control"
+msgstr ""
+
 #: components/app/interface/settings/user/profile/UserProfileEditor.tsx
 msgid "Avatar"
 msgstr "頭像"
